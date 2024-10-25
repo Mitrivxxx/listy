@@ -6,9 +6,9 @@
 
 - Dodaj element pod wskazany indeks,
 
-- Usuń element z początku listy,~
+- Usuń element z początku listy,
 
-- Usuń element z końca listy,~
+- Usuń element z końca listy,
 
 - Usuń element z pod wskazanego indeksu,
 
