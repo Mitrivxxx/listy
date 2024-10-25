@@ -1,4 +1,4 @@
-# Listy :
+# Listy:
 
 - Dodaj element na początek listy,
 
